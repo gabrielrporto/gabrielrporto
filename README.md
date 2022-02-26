@@ -1,6 +1,6 @@
 ### 👋 Olá, sou o Gabriel, iniciante na área de web development e apaixonado pela tecnologia há longo tempo
 
-- 🌱 Atualmente estudo desenvolvimento front-end
+- 🌱 Atualmente estudo web design
 - 📖 Cursando "Curso Dev Web" em https://programadorbr.com/
 
 <div>
